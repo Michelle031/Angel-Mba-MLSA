@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Remotive Job Board",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Designed and developed a job board as part of my practical learning, aimed at facilitating efficient job searches and connections for users.",
+    url: "https://quiet-gumdrop-cec8d9.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Rest Countries Quiz App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Designed a country quiz app using a specific API I worked on, allowing users to test their knowledge about different nations in an engaging way.",
+    url: "https://shiny-brigadeiros-eec32b.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "HealthXp",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "During my internship, I contributed to Healthxp, a HMO initiative aimed at enhancing healthcare accessibility in Nigeria, streamlining access to vital medical resources and information.",
+    url: "https://www.healthxp.org/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Portfolio website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed by me and deployed using Firebase hosting. Includes my experience and practice projects.",
+    url: "https://angelmbadev.co/",
   },
 ];
 
